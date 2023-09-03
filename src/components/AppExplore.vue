@@ -6,6 +6,6 @@ export default {
 
 <template>
   
-  <h1>Coming Soon</h1> 
+  <h1>Explore Page</h1> 
 
 </template>
